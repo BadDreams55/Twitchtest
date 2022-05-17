@@ -1,0 +1,76 @@
+{
+    "bot_config": {
+        "server_id": "912053498449907802",
+        "logs": "970906567744565299",
+        "prefix": "/",
+        "token": "OTEyMDUzMTgwMjUzMjI5MDk2.GwyI1a.2apEem1Soxz7uk2KGZej5_4Bq5Vl3S0IJJGS5s",
+        "twitch_channel": "912144417522077696",
+        "twitch_channel_2": "972369930353778688"
+    },
+    "tfollow": {
+        "+10000": 10000,
+        "+3000": 3000,
+        "Premium+": 1000,
+        "Premium": 500,
+        "Gold": 200,
+        "Silver": 125,
+        "Bronze": 75,
+        "User": 35
+    },
+    "tfriend": {
+        "Developer": 1200,
+        "Premium": 750,
+        "Diamond ": 500,
+        "Gold": 200,
+        "Silver": 125,
+        "Bronze": 75,
+        "𝓜𝓮𝓶𝓫𝓮𝓻𝓼": 35    
+    },
+    "thost": {
+        "+10000": 10000,
+        "+3000": 3000,
+        "Premium+": 1000,
+        "Premium": 500,
+        "Gold": 200,
+        "Silver": 125,
+        "Bronze": 75,
+        "User": 35
+    },
+  "tview": {
+        "+10000": 10000,
+        "+3000": 3000,
+        "Premium+": 1000,
+        "Premium": 500,
+        "Views Acess": 5,
+        "Silver": 125,
+        "Bronze": 75,
+        "User": 35
+  },
+    "treport": {
+        "Developer": 4500,
+        "Premium": 480,
+        "Diamond ": 320,
+        "Gold": 240,
+        "Silver": 120,
+        "Bronze": 60,
+        "𝓜𝓮𝓶𝓫𝓮𝓻𝓼": 35
+    },
+    "tspam": {
+        "Developer": 80,
+        "Premium": 75,
+        "Diamond": 50,
+        "Gold": 25
+    },
+    "ttroll": {
+        "Developer": 95,
+        "Premium": 65,
+        "Diamond": 20,
+        "Gold": 5
+    },
+    "traid": {
+        "Developer": 70,
+        "Premium": 45,
+        "Diamond": 15,
+        "Gold": 5
+    }
+}
